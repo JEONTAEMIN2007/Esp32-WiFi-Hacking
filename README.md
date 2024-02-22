@@ -9,10 +9,15 @@ HTML Content: It defines HTML content for the login page (index() function) and 
 Handler Functions: It defines functions to handle different HTTP requests:
 
 handlePost(): Handles POST requests, extracts email and password from the request, saves them to a log file along with the current time, and redirects the user to the /info page.
+
 handlePass(): Generates a page displaying the logged-in information from the log file.
+
 handleDelete(): Deletes the log file.
+
 handleInfo(): Handles requests for displaying an image.
+
 handleDownload(): Handles requests for downloading the log file.
+
 Time Formatting Function: It defines a function (formatTimeSinceStart()) to format the time since the ESP32 was powered on in days, hours, minutes, and seconds.
 
 Setup Function:
