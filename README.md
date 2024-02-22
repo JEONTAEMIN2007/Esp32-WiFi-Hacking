@@ -28,7 +28,10 @@ Loop Function: It continuously processes DNS requests and handles web server cli
 Overall, this code turns the ESP32 into a web server that hosts a login page, stores login information in a log file, and serves images. It also provides functionality to delete the log file and download it.
 
 /pass <- Address to view information for your account
+
 /down <- Download the information in the pass.
+
 /info <- Enter the information and show the picture as a reward.
+
 /delete <- Delete the entered information.
 
