@@ -36,7 +36,7 @@ Overall, this code turns the ESP32 into a web server that hosts a login page, st
 
 /down <- Download the information in the pass.
 
-/info <- Enter the information and show the picture as a reward.
+/info <- Enter the information and show the picture as a reward.  Photo information: 1.png ]
 
 /delete <- Delete the entered information.
 
