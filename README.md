@@ -40,5 +40,10 @@ Overall, this code turns the ESP32 into a web server that hosts a login page, st
 
 /delete <- Delete the entered information.
 
+
+All legal issues are not with the developer, and the person responsible for exploiting the code is with the code downloader
+
+WARNING: The developer is making an error and is a wife who is likely to lose her data. The risk of using it is your responsibility and the responsibility of the end user. There is a "99%" but a "1%" is terrible!
+
 I made it with reference. : https://github.com/Alpha-1729/ESP_WiFi_Captive_Portal
 Loved the code for esp8266, so I made it for esp32. Not the same code. Made it easier to write. Understand what the code says.
